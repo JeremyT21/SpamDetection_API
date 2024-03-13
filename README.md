@@ -1,7 +1,7 @@
 # Spam Detection Program
 
 ## Project Overview
-Spam Detector is a program we designed to filter our spam emails using a unigram approach. The program reads a dataset of emails(spam and non-spam) to train and recognize whether new emails are spam. It calculates probabilities based on the frequency of words in the emails. The project includes two main componets: a server-side application for training and testing the model, and a web client application to display the results.
+Spam Detector is a program we designed to filter our spam emails using a unigram approach. The program reads a dataset of emails (spam and non-spam / ham) to train and recognize whether new emails are spam. It calculates probabilities based on the frequency of words in the emails. The project includes two main componets: a server-side application for training and testing the model, and a web client application to display the results.
 
 **Group Members:**
 Jeremy Thummel,
