@@ -15,15 +15,17 @@
 ##   This will handle all files NOT defined below.
 * text=auto
 
+*.js linguist-language=JavaScript
+*.java linguist-language=Java
+*.html linguist-language=HTML
+*.css linguist-language=CSS
+
 ## SOURCE CODE
 *.bat      text eol=crlf
 *.coffee   text
-*.css      text
 *.htm      text
-*.html     text
 *.inc      text
 *.ini      text
-*.js       text
 *.json     text
 *.jsx      text
 *.less     text
