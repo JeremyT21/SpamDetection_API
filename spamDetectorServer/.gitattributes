@@ -1,1 +1,2 @@
+#The code ignores the classification of any of the files in the data directory
 src/main/resources/data/** linguist-generated=true
